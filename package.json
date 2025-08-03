@@ -2,6 +2,7 @@
   "name": "badge",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://invertedtriangle358.github.io/badges",
   "dependencies": {
     "@chakra-ui/icons": "^2.0.17",
     "@chakra-ui/react": "^2.5.1",
